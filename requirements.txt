@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+flask-jwt-extended
+celery
+Click>=7.0
